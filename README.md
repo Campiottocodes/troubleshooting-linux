@@ -17,12 +17,16 @@ Desenvolver habilidades práticas em:
 
 ---
 
-## 📂 Estrutura
+## Estrutura
 
-Os casos estão organizados por categoria:
+Os casos estão organizados por domínio técnico:
 
-- [NTP](./ntp/)
-- (em breve: DNS, Rede, Disco, CPU...)
+- Redes  
+  - NTP  
+- Sistema  
+- Serviços  
+
+Novas categorias serão adicionadas conforme evolução dos estudos e experiências práticas.
 
 ---
 
