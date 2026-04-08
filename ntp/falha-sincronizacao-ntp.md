@@ -1,5 +1,3 @@
----
-
 # ⚡ Checklist Rápido (Execução)
 
 ## 1. Verificar status NTP
