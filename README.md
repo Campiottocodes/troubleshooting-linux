@@ -21,10 +21,10 @@ Desenvolver habilidades práticas em:
 
 Os casos estão organizados por domínio técnico:
 
-- Redes  
-  - NTP  
-- Sistema  
-- Serviços  
+- [Redes](./rede/)
+  - [NTP](./rede/ntp/)
+- Sistema
+- Serviços
 
 Novas categorias serão adicionadas conforme evolução dos estudos e experiências práticas.
 
